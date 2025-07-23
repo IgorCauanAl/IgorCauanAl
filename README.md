@@ -42,7 +42,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [E-commerce Nobreza](https://igorcauanal.github.io/Projeto-Nobreza-Site/)| Loja virtual de moda masculina com carrinho e filtros dinâmicos. | HTML, CSS, JS, JAVA (Em desenvolvimento) |
+| [E-commerce Nobreza (Em desenvolvimento)](https://igorcauanal.github.io/Projeto-Nobreza-Site/)| Loja virtual de moda masculina com carrinho e filtros dinâmicos. | HTML, CSS, JS, JAVA |
 
 ---
 
