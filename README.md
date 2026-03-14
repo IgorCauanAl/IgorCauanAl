@@ -11,24 +11,25 @@
   <br>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
 
-🎓 Sou estudante no **IFBA (Instituto Federal da Bahia)** com forte interesse na área de Segurança da Informação. Acredito que a segurança é uma das maiores tendências da nossa sociedade, pois vivemos na era em que os dados são o novo ouro e gostaria de ajudar a sociedade diante dessa grande tendência de crime digitais. 
-Meu objetivo é fazer parte do setor que defende ativos críticos contra criminosos digitais. O que mais me fascina nessa área é a **análise de vulnerabilidades** e com base nisso desenvolver o raciocínio lógico para desenvolver estruturas de defesa para as empresas.
+🎓 Sou estudante no **IFBA (Instituto Federal da Bahia)** com forte interesse na área de Segurança da Informação. Acredito que a segurança é uma das maiores tendências da nossa sociedade, pois vivemos na era em que os dados são o novo ouro, e gostaria de contribuir diante do crescimento dos crimes digitais.
+
+Meu objetivo é fazer parte do setor que defende ativos críticos contra criminosos digitais. O que mais me fascina nessa área é a **análise de vulnerabilidades** e com base nisso, utilizar o raciocínio lógico para desenvolver estruturas de defesa resilientes para as empresas.
 
 ---
 
 ## 🚀 Tecnologias e Conhecimentos
 
-- 🛡️ **Segurança:** Fundamentos de Cybersecurity, Redes.
-- 💻 **Linguagens:** Java, Python .
-- 🛢️ **Banco de Dados:** SQL- Microsoft SQL Server .
+- 🛡️ **Segurança:** Fundamentos de Cybersecurity e Redes.
+- 💻 **Linguagens:** Java e Python.
+- 🛢️ **Banco de Dados:** SQL (Microsoft SQL Server).
 - 🔧 **Ferramentas:** Git, GitHub, IntelliJ IDEA e VSCode.
-- 🌐 **Sistemas:** Windows e Terminal Linux .
+- 🌐 **Sistemas:** Windows e Terminal Linux.
 
 ---
 
@@ -36,7 +37,7 @@ Meu objetivo é fazer parte do setor que defende ativos críticos contra crimino
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [E-commerce Nobreza](https://igorcauanal.github.io/Projeto-Nobreza-Site/)| Loja virtual com carrinho e filtros dinâmicos. (Em desenvolvimento) | HTML, CSS, JS, Java |
+| [E-commerce Nobreza](https://igorcauanal.github.io/Projeto-Nobreza-Site/)| Loja virtual com carrinho e filtros dinâmicos (em desenvolvimento). | HTML, CSS, JS, Java |
 
 ---
 
