@@ -1,41 +1,34 @@
 <h1 align="center">Olá! 👋 Me chamo Igor</h1>
 <p align="center">
-  <em>Estudante de Análise e Desenvolvimento de Sistemas no IFBA  | Desenvolvedor em formação com foco em Java | Foco em Segurança da Informação</em>
+  <em>Estudante de Análise e Desenvolvimento de Sistemas no IFBA | Estudante do Google Cybersecurity Certificate</em>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Network_Security-Shield-green?style=flat-square" alt="Network Security"/>
+  <br>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-
 </p>
 
 ---
 
-🎓 Sou estudante no IFBA — Instituto Federal da Bahia, com forte interesse em desenvolvimento de sistemas com foco em **segurança da informação**, **boas práticas de engenharia de software** e integração entre **back-end em Java** e **front-end com HTML, CSS e JavaScript**.
-
-💼 Atualmente, busco oportunidades de estágio e projetos onde eu possa:
-- Desenvolver aplicações seguras e escaláveis com **Java e Spring Boot**
-- Aplicar conceitos de **POO, API REST e autenticação segura com JWT**
-- Integrar com **banco de dados relacionais** (MySQL)
-- Aprofundar conhecimentos em redes, hardware e fundamentos de segurança cibernética
+🎓 Sou estudante no **IFBA (Instituto Federal da Bahia)** com forte interesse na área de Segurança da Informação. Acredito que a segurança é uma das maiores tendências da nossa sociedade, pois vivemos na era em que os dados são o novo ouro e gostaria de ajudar a sociedade diante dessa grande tendência de crime digitais. 
+Meu objetivo é fazer parte do setor que defende ativos críticos contra criminosos digitais. O que mais me fascina nessa área é a **análise de vulnerabilidades** e com base nisso desenvolver o raciocínio lógico para desenvolver estruturas de defesa para as empresas.
 
 ---
 
 ## 🚀 Tecnologias e Conhecimentos
 
-- 💻 **Linguagens:** Java, JavaScript, HTML, CSS
-- ⚙️ **Frameworks:** Spring Boot (aprendizado em andamento)
-- 🔐 **Segurança:** Autenticação com JWT (aprendizado em andamento)
-- 🛢️ **Banco de Dados:** MySQL (aprendizado em andamento)
-- 🔧 **Ferramentas:** Git, GitHub, IntelliJ IDEA, VSCode
-- 🌐 **Outros:** Redes, Hardware, versionamento
+- 🛡️ **Segurança:** Fundamentos de Cybersecurity, Redes.
+- 💻 **Linguagens:** Java, Python .
+- 🛢️ **Banco de Dados:** SQL- Microsoft SQL Server .
+- 🔧 **Ferramentas:** Git, GitHub, IntelliJ IDEA e VSCode.
+- 🌐 **Sistemas:** Windows e Terminal Linux .
 
 ---
 
@@ -43,15 +36,15 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [E-commerce Nobreza](https://igorcauanal.github.io/Projeto-Nobreza-Site/)| Loja virtual de moda masculina com carrinho e filtros dinâmicos.(Em desenvolvimento) | HTML, CSS, JS, JAVA |
+| [E-commerce Nobreza](https://igorcauanal.github.io/Projeto-Nobreza-Site/)| Loja virtual com carrinho e filtros dinâmicos. (Em desenvolvimento) | HTML, CSS, JS, Java |
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/igor-cauan-0b2997321/?trk=opento_sprofile_topcard)
+- 💼 [LinkedIn](https://www.linkedin.com/in/igor-cauan-0b2997321/)
 - 📧 Email: igorcauawo@gmail.com
-  
+
 ---
 
-⭐ Obrigado por visitar meu perfil! Estou sempre aberto para conexões, colaborações e oportunidades de aprendizado e crescimento profissional. 🚀
+⭐ Obrigado por visitar meu perfil! Estou sempre aberto a conexões, colaborações e novas oportunidades de aprendizado. 🚀
