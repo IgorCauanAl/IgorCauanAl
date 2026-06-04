@@ -38,7 +38,7 @@ Meu objetivo é fazer parte do setor que defende ativos críticos contra crimino
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [E-commerce Nobreza](https://igorcauanal.github.io/Projeto-Nobreza-Site/)| Loja virtual com carrinho e filtros dinâmicos para fins de estudos | HTML, CSS, JS, Java |
-| [Automações do Projeto PET Saúde Digital (CNPQ)]([https://igorcauanal.github.io/Projeto-Nobreza-Site/](https://github.com/IgorCauanAl/Projetos-PET-Saude-Digital))| Automações em Python para a secretaria da Saúde Primária de Santo Antônio De Jesus | Python |
+| [Automações do Projeto PET Saúde Digital (CNPQ)](https://github.com/IgorCauanAl/Projetos-PET-Saude-Digital)| Automações em Python para a secretaria da Saúde Primária de Santo Antônio De Jesus | Python |
 
 ---
 
