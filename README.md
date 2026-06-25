@@ -26,8 +26,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFBA e desenvolvo pro
 
 ## 🚀 Tecnologias e Conhecimentos
 
-- 💻 **Back-end**: Java e Spring Boot 
--🛢️ **Banco de dados**: MySQL
+- 💻 **Back-end**: Java e Spring Boot
+- 🛢️ **Banco de dados**: MySQL
 - 🔧 **Ferramentas:** Git, GitHub, IntelliJ IDEA e VSCode.
 - 🌐 **Sistemas:** Windows e Terminal Linux.
 
