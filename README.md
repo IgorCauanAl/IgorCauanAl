@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <br>
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Networking-00599C?style=flat-square&logo=cisco&logoColor=white" alt="Redes"/>
 </p>
 
 
