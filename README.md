@@ -37,7 +37,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFBA e desenvolvo pro
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [E-commerce Nobreza](https://igorcauanal.github.io/Projeto-Nobreza-Site/)| Loja virtual com carrinho e filtros dinâmicos para fins de estudos | HTML, CSS, JS, Java |
+| [E-commerce Nobreza](https://igorcauanal.github.io/Projeto-Nobreza-Site/)| Loja virtual com carrinho e filtros dinâmicos para fins de estudos | HTML, CSS, JS, Java, SpringBoot |
 | [Automações do Projeto PET Saúde Digital (CNPQ)](https://github.com/IgorCauanAl/Projetos-PET-Saude-Digital)| Automações em Python para a secretaria da Saúde Primária de Santo Antônio De Jesus | Python |
 
 ---
